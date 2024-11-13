@@ -1,0 +1,58 @@
+
+
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div.container {
+    text-align: center;
+}
+
+ul.unordered {
+    display: inline-block;
+    text-align: left;
+}
+
+ol.ordered {
+    display: inline-block;
+    text-align: left;
+}
+
+p {
+    text-align: center;
+}
+
+
+
+footer.main {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background: #FFFFC5;
+}
+
+footer.recipe {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background: #FFFFC5;
+}
+
+div#header {
+    background: #FFFFC5;
+    padding: 10px 20px;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 1000;
+}
+
+img#head {
+    height: auto;
+    width: 50px;
+}
+
+
